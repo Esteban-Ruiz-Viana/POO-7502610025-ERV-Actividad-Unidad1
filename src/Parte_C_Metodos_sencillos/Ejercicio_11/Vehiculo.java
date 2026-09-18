@@ -1,5 +1,10 @@
-package Parte_B_Construcción_de_objetos.Ejercicio_7;
+package Parte_C_Metodos_sencillos.Ejercicio_11;
 
+
+// Ejercicio 11: aumenta la velocidad en 10
+
+
+public class Vehiculo {
 
     //Atributos
 
@@ -15,5 +20,10 @@ package Parte_B_Construcción_de_objetos.Ejercicio_7;
         System.out.println( "Modelo: "+ modelo);
         System.out.println( "Velocidad: "+ velocidadActual + " km/h");
 
-        }
+    }
+
+    void acelerar() {
+
+        velocidadActual = velocidadActual + 10;
+    }
 }

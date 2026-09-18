@@ -15,9 +15,6 @@ public class CuentaBancaria {
 
     //Constructor con parametros
 
-
-    //Metodo
-
     CuentaBancaria(String numero, String titular, double saldo) {
 
         this.numero = numero;
@@ -26,6 +23,8 @@ public class CuentaBancaria {
 
     }
 
+
+    //Metodo
 
     void mostrarCuenta() {
 

@@ -34,7 +34,7 @@ public class CuentaBancaria {
 
             } else {
 
-            System.out.println("Saldo insuficiente para retirar $" + valor);
+            System.out.println( "Saldo insuficiente para retirar $" + valor );
 
         }
    }

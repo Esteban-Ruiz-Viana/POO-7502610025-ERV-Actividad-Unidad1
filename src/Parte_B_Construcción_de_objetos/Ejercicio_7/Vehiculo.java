@@ -1,5 +1,6 @@
 package Parte_B_Construcción_de_objetos.Ejercicio_7;
 
+public class Vehiculo {
 
     //Atributos
 

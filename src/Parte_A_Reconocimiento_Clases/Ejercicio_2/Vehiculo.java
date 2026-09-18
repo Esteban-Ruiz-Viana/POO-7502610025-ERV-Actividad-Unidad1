@@ -19,7 +19,7 @@ public class Vehiculo {
 
         System.out.println( "Marca: " + marca);
         System.out.println( "Modelo: "+ modelo);
-        System.out.println( "Velocidad: "+ velocidadActual " km/h");
+        System.out.println( "Velocidad: "+ velocidadActual + " km/h");
 
         }
 }

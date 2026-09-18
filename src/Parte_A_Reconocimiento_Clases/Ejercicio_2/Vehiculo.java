@@ -1,4 +1,4 @@
-package Parte_A_Reconocimiento_Clases.Estudiante_1.Ejercicio_2;
+package Parte_A_Reconocimiento_Clases.Ejercicio_2;
 
 
 // Ejercicio 2: Define una clase Vehiculo con atributos marca, modelo, velocidadActual

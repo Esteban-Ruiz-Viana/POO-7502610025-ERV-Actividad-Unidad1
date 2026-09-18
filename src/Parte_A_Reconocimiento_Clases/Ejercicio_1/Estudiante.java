@@ -1,4 +1,4 @@
-package Parte_A_Reconocimiento_Clases.Estudiante_1;
+package Parte_A_Reconocimiento_Clases.Ejercicio_1;
 
 
 //Ejercicio 1: Definir una clase Estudiante con atributos nombre, codigo, semestre

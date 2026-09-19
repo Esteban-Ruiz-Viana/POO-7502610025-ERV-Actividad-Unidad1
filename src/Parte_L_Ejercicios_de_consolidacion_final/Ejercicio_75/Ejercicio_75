@@ -1,0 +1,44 @@
+Ejercicio 75
+
+A largo de esta actividad se vieron y se practicaron paso a paso los conceptos principales de POO en java.
+Los distintos ejercicos permietieron entender la relacion entre clases, objetos, atributos ,metodos y constructores.
+
+¿Qué es una clase?
+
+Una clase es como un "molde" que define como sera el objeto, describiendo qué tendra como lo son los atributos (datos) y
+métodos (comportamientos) que tendrá cualquier objeto construido a partir de ella. La clase por sí sola no representa
+nada concreto, es simplemente la estructura.
+
+A lo largo del taller, clases como Estudiante, Vehiculo, CuentaBancaria o PerfilAcademico cumplieron ese papel,
+dijeron qué forma tendría cada objeto, sin ser todavía ningún estudiante, vehículo o cuenta en particular.
+
+¿Qué es un objeto?
+
+Un objeto es una instancia concreta de una clase, un ejemplo real, creada en la memoria a traves de la palabra new,
+con valores específicos en sus atributos. Si la clase es el molde, el objeto es la "galleta" ya hecha con ese molde.
+Dos objetos de la misma clase comparten la misma estructura , pero cada uno guarda su propio estado
+de forma independiente.
+
+¿Qué significa instanciar?
+
+Instanciar es el proceso de crear un objeto a partir de una clase, usando new NombreClase().
+ En ese momento, Java reserva memoria para el nuevo objeto y, si existe un constructor, lo ejecuta
+ para inicializar sus atributos.Es el puente entre la definición abstracta (la clase) y la existencia
+ concreta (el objeto).
+
+ A lo largo del taller vimos varias formas de instanciar como lo es con constructor vacío y asignación
+ posterior, con constructor de parámetros, con constructor copia, e incluso mediante métodos fábrica estáticos
+ que deciden internamente cómo construir el objeto.
+
+¿Por qué Java utiliza clases en la Programación Orientada a Objetos?
+
+Es debido a que java es un lenguaje orientado a objetos por diseño, y las clases son la unidad fundamental que permite
+agrupar datos y comportamiento relacionados en una sola entidad , en lugar de dispersarlos en variables y funciones sueltas
+como ocurre en la programación procedural. Esto hace el código más ordenado, fácil de mantener y reutilizable.
+Además, se parece a cómo pensamos el mundo real (estudiantes, cuentas, productos, vehículos), lo que
+facilita diseñar programas más grandes y claros.
+
+En conjunto, todo este recorrido iniciando desde las clases sin comportamiento, pasando por métodos, constructores
+en sus distintas variantes, hasta el análisis de errores comunes permite entender el concepto principal y diferenciar
+el "qué es" (la clase) del "qué existe" (el objeto), y usar esa separación para escribir programas más
+organizados, reutilizables y fáciles de entender a medida que crecen.

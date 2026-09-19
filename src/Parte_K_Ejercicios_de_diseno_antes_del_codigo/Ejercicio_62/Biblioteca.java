@@ -1,4 +1,4 @@
-package Parte_K_Ejercicios_de_diseño_antes_del_codigo.Ejercicio_62;
+package Parte_K_Ejercicios_de_diseno_antes_del_codigo.Ejercicio_62;
 
 
 // Ejercicio 62: Planificar la clase Biblioteca antes de programarla,

@@ -1,0 +1,23 @@
+Ejercicio 74 — Comparación de las tres formas de construcción
+
+Las tres formas de construcción trabajadas a lo largo del taller fueron:
+
+- new + asignación por fuera: se crea el objeto vacío y luego se asignan sus atributos uno por uno.
+
+- Constructor con parámetros: el objeto se crea con sus datos desde el momento de su creación, pasando los valores como parámetros.
+
+- Constructor copia: el objeto se crea copiando los valores de otro objeto que ya existe.
+
+Para alguien principiante, pienso que el constructor con parámetros es la forma más clara y sencilla de entender.
+Esto se debe a que permite entregar todos los datos necesarios en el mismo momento en que se crea el objeto
+y permite ver de forma directa qué información necesita la clase.
+
+La forma de new + asignación también es fácil de entender al principio porque permite observar el proceso
+paso a paso. Sin embargo, puede ser más inclinada a errores si se olvida asignar alguno de los atributos.
+
+Por ultimo, el constructor copia resulta útil cuando se necesita crear un objeto a partir de otro, pero puede
+ser un poco más difícil de comprender para un principiante, porque primero debe de entender que un objeto puede
+ser utilizado como parámetro de otro constructor.
+
+Por todo lo que he dicho considero que el constructor con parámetros es el más
+claro para comenzar a trabajar con objetos.

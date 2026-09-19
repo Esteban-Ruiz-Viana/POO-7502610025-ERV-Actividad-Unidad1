@@ -1,7 +1,6 @@
 package Parte_I_EJercicios_de_lectura_y_correcion.Ejercicio_45;
 
-
-
+// Ejercicio 45 :Corrige una clase donde el programador haya puesto el método fuera de la clase.
 
 public class Vehiculo {
 

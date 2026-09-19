@@ -1,4 +1,4 @@
-package Parte_K_Ejercicios_de_diseno_antes_del_codigo.Ejercicio_61;
+package Parte_K_Ejercicios_de_diseño_antes_del_codigo.Ejercicio_61;
 
 // Ejercicio 61: Planificar la clase Docente antes de programarla,
 // definiendo sus atributos, métodos y posibles objetos reales.

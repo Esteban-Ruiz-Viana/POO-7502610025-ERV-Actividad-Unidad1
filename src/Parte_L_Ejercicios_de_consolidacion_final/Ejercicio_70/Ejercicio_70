@@ -1,0 +1,16 @@
+Ejercicio 70: Explicar las clases, objetos, atributos y comportamientos.
+
+- Clases: Las clases utilizadas fueron PerfilAcademico, BloqueRutina y ClienteSpotify.
+
+- Los objetos: fueron las diferentes instancias creadas de cada clase.
+Se crearon cinco objetos de PerfilAcademico, cinco de BloqueRutina y cinco de ClienteSpotify.
+
+-Atributos:
+    - PerfilAcademico: universidad, programa y semestre.
+    - BloqueRutina: dia, horaInicio, horaFin y actividad.
+    - ClienteSpotify: nombreCliente, fechaVencimiento, valorMensual y pagoAlDia.
+
+-Comportamientos:
+    - PerfilAcademico: avanzarSemestre() y mostrarInfo().
+    - BloqueRutina: mostrarBloque().
+    - ClienteSpotify: registrarPago(), avisarVencimiento() y mostrarInfo().

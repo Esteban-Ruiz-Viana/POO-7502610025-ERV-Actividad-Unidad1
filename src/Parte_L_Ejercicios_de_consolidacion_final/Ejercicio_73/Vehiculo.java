@@ -20,6 +20,8 @@ public class Vehiculo {
         this.modelo = otroVehiculo.modelo;
         this.velocidadActual = otroVehiculo.velocidadActual;
 
+        }
+
     //Metodo
 
     void mostrarEstado() {

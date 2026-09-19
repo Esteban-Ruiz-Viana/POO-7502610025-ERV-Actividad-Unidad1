@@ -1,6 +1,6 @@
 package Parte_L_Ejercicios_de_consolidacion_final.Ejercicio_71;
 
-// Ejercicio 71: Reescribe uno de tus primeros ejercicios, pero
+// Ejercicio 71: Reescribe uno de tus primeros ejercicios(Ejercicio 1), pero
 // ahora usando constructor con parámetros.
 
 public class Estudiante {
